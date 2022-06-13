@@ -1,13 +1,14 @@
 ### Hi there 👋
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="550"/><br> 
 
 ```javascript
 // tools_I_use organized
 class About extends Me { 
   const myTools = {  
-    "ProgramingLanguages" : { "Javascript","Php",},
+    "ProgramingLanguages" : { "Javascript","Php"},
+    "Framwork&Library" : { "React Js", "React native", "Laravel","Express js"},
     "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Framwork&Library" : { "React Js", "React native", "Laravel","Express js", },
     "Database" : { "Firebase", "Sqlite","Sql" },
     "Editors" : { "Vscode", "Sublime" },
     "Platforms" : { "GNU/Linux", "Windows" },
