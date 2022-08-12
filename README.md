@@ -5,7 +5,7 @@
   <br> I'm Bil, <br>
   <br>
    <p align="center">
-     <img  src="./asset/cover.gif">
+     <img  src="./assets/cover.gif">
    </p>
  </abc>
 </h2> 
