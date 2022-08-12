@@ -24,9 +24,10 @@ class About extends Me {
 }
 ```
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bilwifi&theme=Javascript&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-
+-->
 <!--
 **bilwifi/bilwifi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
