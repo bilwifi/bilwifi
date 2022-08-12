@@ -1,3 +1,4 @@
+![cover](assets/cover.gif)
 ### Hi there 👋
 
 <!--
