@@ -10,7 +10,7 @@
 </h2> 
 
 ```javascript
-// tools_I_use organized
+// tools_I_use 
 class About extends Me { 
   const myTools = {  
     "ProgramingLanguages" : { "Javascript","Php"},
